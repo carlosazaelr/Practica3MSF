@@ -12,13 +12,13 @@ authors:
     family-names: Ramirez
     email: L22212267@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/carlosazaelr/Practica4MSF'
+repository-code: 'https://github.com/carlosazaelr/Practica3MSF'
 keywords:
   - Circuito RLC
   - Controlador PID
-  - Sistema cardiovascular
+  - Sistema musculoesquelético
   - Modelo matemático
   - Simulaciones numéricas
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-17'
+date-released: '2025-10-30'
